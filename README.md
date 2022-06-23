@@ -1,7 +1,7 @@
 # Project Name:
  Covid-19 Global case Analysis
  
-# Task from NG30days of learning DAta Anlytics with Power BI organized Sir Oyinbooke and his team
+# Task from NG30days of learning DAta Anlytics with Power BI organized by Sir Oyinbooke and his team
  
 # Visualization Tool
  Microsoft Excel
