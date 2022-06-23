@@ -10,7 +10,8 @@
   3. To Know the top 7 seven countries with the highest number of death
   4. The cummulative monthly confirmed cases since 2020
   5. Total confirmed cases by each year from 2021 to 2022
-  6. Cummulative death cases by month
+  6. Cummulative death cases by month accross the globe
+  7. In addition, to find out about my country (Nigeria) confirmed cases and death cases
 
 
 # Data Sourcing
@@ -30,3 +31,7 @@ The data was Analzysed using Microsoft Excel
 ![Findings2](https://user-images.githubusercontent.com/56626287/175203342-8fde0740-4fde-496f-9397-28ba8fe40a1e.JPG)
 ![Findings3](https://user-images.githubusercontent.com/56626287/175203363-5e2f218a-1bb6-4e7b-9f3d-19c9294954f4.JPG)
 ![findings4](https://user-images.githubusercontent.com/56626287/175203401-a293ee6e-d507-4882-a8d1-c867881d3e99.JPG)
+
+I found out that as at the time this analysis was made(June 2022) Nigeria my country has  118,757,137 confirmed cases,  1,573,076 death cases and  39,492,087 recovered at the rate of 1%
+
+
