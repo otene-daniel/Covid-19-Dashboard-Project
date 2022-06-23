@@ -11,7 +11,7 @@
   4. The cummulative monthly confirmed cases since 2020
   5. Total confirmed cases by each year from 2021 to 2022
   6. Cummulative death cases by month accross the globe
-  7. In addition, to find out about my country (Nigeria) confirmed cases and death cases
+  7. In addition, to find out about my country (Nigeria) confirmed cases, recovered cases and death cases
 
 
 # Data Sourcing
@@ -26,12 +26,14 @@ The data was Analzysed using Microsoft Excel
 ![Covid dasboard 1](https://user-images.githubusercontent.com/56626287/175202875-8cb305d9-7d6b-4905-b352-0c5d38715d0f.JPG)
 ![Covid dasboard 2](https://user-images.githubusercontent.com/56626287/175202916-a0b2e21a-49e5-43a2-9ae3-472201b7c643.JPG)
 
-# Findings and Recommendation
+# Findings
 ![Findings1](https://user-images.githubusercontent.com/56626287/175203326-9d017605-5a12-4cb6-85a2-dcdfae4a82fd.JPG)
 ![Findings2](https://user-images.githubusercontent.com/56626287/175203342-8fde0740-4fde-496f-9397-28ba8fe40a1e.JPG)
 ![Findings3](https://user-images.githubusercontent.com/56626287/175203363-5e2f218a-1bb6-4e7b-9f3d-19c9294954f4.JPG)
 ![findings4](https://user-images.githubusercontent.com/56626287/175203401-a293ee6e-d507-4882-a8d1-c867881d3e99.JPG)
 
-I found out that as at the time this analysis was made(June 2022) Nigeria my country has  118,757,137 confirmed cases,  1,573,076 death cases and  39,492,087 recovered at the rate of 1%
+I found out that as at the time this analysis was made(June 2022) that Nigeria my country has  118,757,137 confirmed cases,  1,573,076 death cases and  39,492,087 recovered at the rate of 1%
 
-
+# Recommendation
+1. Countries with the lowest prevalence of covid-19 security measures should be investigated and adopted by other countries of the world incase such pandemic might beak out again
+2. United states of America (World Power) having the highest number of confirmed cases and the highest case of death maybe due to climatic condition. It proves that Corona Virus has a strong life span and high tendency of surviving more in regions located in and around the US hence effective measures must be taken.
